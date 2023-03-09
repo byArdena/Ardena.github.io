@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-12/1639706967_188-catherineasquithgallery-com-p-rozovii-fon-dlya-instagramma-odnotonnii-319.jpg);    
+}
+
+a {
+    color: darkred;
+}
+
+img {
+    height: auto;
+    width: 50%;
+    max-width: 720px;
+    border-radius: 25px;
+}
